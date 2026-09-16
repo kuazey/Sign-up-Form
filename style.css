@@ -18,7 +18,7 @@ body {
 }
 
 
-/* LEFT SIDE */
+
 
 .side-bar {
     flex: 0 0 38%;
@@ -45,7 +45,6 @@ body {
 }
 
 
-/* RIGHT SIDE */
 
 .info {
     flex: 1;
@@ -56,7 +55,7 @@ body {
 }
 
 
-/* HEADER */
+
 
 header {
     padding: 90px 48px 40px;
@@ -64,7 +63,7 @@ header {
 
 
 
-/* FORM AREA */
+
 
 .details {
     background-color: rgb(255, 246, 246);
